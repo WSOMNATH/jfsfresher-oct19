@@ -1,5 +1,6 @@
  <<<<<<< HEAD
-	
+this change can try to undestand  what is diff bet
+clonning and pull  and push	
 <<<<<<< HEAD
 ======= assignment say that make some changes on line three
 =======
